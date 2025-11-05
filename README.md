@@ -22,7 +22,7 @@ Transcripción de voz utilizando Python con Lenguaje Natural (PLN) con la biblio
 - Abre una terminal o consola.
 - Navega hasta la carpeta donde guardaste el archivo.
 - Ejecuta el programa.
-- Al hacer clic en la ventana del dibujo, esta se cerrará.
+
 </br>
 
 💙 <strong>Alejandra Contreras</strong></br></br>
