@@ -1,19 +1,23 @@
 # 📌 Transcripciones_de_voz
-Transcripción de voz utilizando Python con Lenguaje Natural (PLN) con la biblioteca Pandas y Librosa, por último la creación de un espectrograma.
+Análisis acústico utilizando Lenguaje Natural (PLN) para la creación de un espectrograma.
 
 ## 🖥️ Tecnologías Utilizadas:
 
-- Python
-- Pandas
-- Librosa
-- Jupiter Notbook
-- Colab
+- Python.
+- Pandas.
+- Matplotlib.
+- Librosa.
+- Scikit-learn.
+- Jupiter Notbook.
+- Colab.
 
 ## 📦 Requisitos:
 
 - Utilizar Google Colab.
 - Importar la biblioteca Pandas.
+- Importar la biblioteca Matplotlib.
 - Importar la biblioteca Librosa.
+- Importar la biblioteca Scikit-learn.
 
 ## ▶️ Cómo ejecutar el código
 
