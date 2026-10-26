@@ -18,7 +18,7 @@ Transcripción de voz utilizando Python con Lenguaje Natural (PLN) con la biblio
 ## ▶️ Cómo ejecutar el código
 
 - Clona o descarga el proyecto.
-- Guarda el código en un archivo, por ejemplo: transcripcion_voz.py.
+- Guarda el código en un archivo, por ejemplo: transcripcion_de_voz.py.
 - Abre una terminal o consola.
 - Navega hasta la carpeta donde guardaste el archivo.
 - Ejecuta el programa.
